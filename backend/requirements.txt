@@ -1,0 +1,10 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+python-dotenv
+langchain
+chromadb
+requests
+pydantic
+PyPDF2
+tiktoken
