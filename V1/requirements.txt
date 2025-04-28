@@ -1,0 +1,26 @@
+# Core Python Dependencies
+fastapi
+uvicorn
+python-dotenv
+requests
+python-multipart
+pydantic
+onnxruntime
+
+
+# PDF parsing
+PyMuPDF  # alias: fitz
+
+# Embedding Model
+transformers
+torch
+
+# Vector Store
+chromadb
+
+# Frontend
+streamlit
+
+# requirements.txt additions
+mysqlclient
+sqlalchemy
